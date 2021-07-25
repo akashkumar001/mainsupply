@@ -22104,12 +22104,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xc0581f30da1cA9c0dfB3FB75Ed9068f2dDE476F5",
-      "transactionHash": "0x82624fdf1eeb24f2758639634026f02a2f220fde61509bc23e5192963cf0eeb8"
+      "address": "0x6EDCcd30E83Ab885fa0c5E0E5B836f62EE9BE50D",
+      "transactionHash": "0xee6fda0f7f1e8cf55673b524bb3632dc00b3a2607cb49dec2fe34eb3732943c1"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-07-15T18:53:08.470Z",
+  "updatedAt": "2021-07-24T12:30:07.825Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
